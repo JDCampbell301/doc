@@ -2,4 +2,7 @@ target
 .classpath
 .project
 .settings/
-
+_build/doctrees
+_build/locale/.doctrees
+source/locale
+translations
